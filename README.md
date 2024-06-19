@@ -1,4 +1,4 @@
-# CancerCellsPrediction
+# Single Cell Sequencing
 
 This project aims to analyze data relative to cancer cells and their growth patterns next to blood vessels. We investigated the possibility of predicting the state of a cell (hypoxia or normoxia). We determined its potential danger by studying the mechanisms the cells develop to survive and resist treatments.
 
